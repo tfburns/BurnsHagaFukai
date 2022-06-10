@@ -1,4 +1,4 @@
-This is a code repository for the paper by Burns, Haga, and Fukai titled "Multiscale and extended retrieval of associative memory structures in a cortical model of local-global inhibition balance". Now available on biorxiv: https://www.biorxiv.org/content/10.1101/2021.11.30.470555v1
+This is a code repository for the paper by Burns, Haga, and Fukai titled "Multiscale and extended retrieval of associative memory structures in a cortical model of local-global inhibition balance". Now published at eNeuro (DOI: https://doi.org/10.1523/ENEURO.0023-22.2022), and previously available on bioRxiv (DOI: https://doi.org/10.1101/2021.11.30.470555).
 
 The simulation and main plotting functions can be found in `main.jl`. Some additional plots and anaylsis can be found in `extras.jl`. There are also some helper files, mainly for graph-building but also for some pre-computed results which are computationally-expensive to run.
 
